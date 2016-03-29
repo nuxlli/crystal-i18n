@@ -3,8 +3,8 @@ version: 0.1.2
 
 dependencies:
   config:
-    github: whity/crystal-config
-    branch: master
+    github: nuxlli/crystal-config
+    branch: feature/updating_crystal
 
 authors:
   - André Brás <andregoncalo.bras@gmail.com>
